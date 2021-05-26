@@ -1,0 +1,94 @@
+.lt-underline {
+  cursor: pointer;
+  transition: background-color 100ms ease-out;
+}
+
+.lt-underline.lt-minor {
+  box-shadow: inset 0 -2px #e9b35f;
+}
+
+.lt-underline.lt-major {
+  box-shadow: inset 0 -2px #da615c;
+}
+
+.lt-underline.lt-style {
+  box-shadow: inset 0 -2px #8981f3;
+}
+
+.lt-underline.lt-minor:hover {
+  background-color: #e9b35f21;
+}
+
+.lt-underline.lt-major:hover {
+  background-color: #da615c21;
+}
+
+.lt-underline.lt-style:hover {
+  background-color: #8981f321;
+}
+
+.lt-predictions-container-glass {
+  font-family: var(--default-font);
+  transform-origin: top;
+  animation-duration: 0.3s;
+  animation-name: lineInserted;
+  transition: height 0.1s;
+  display: grid;
+  grid-gap: 0.2rem;
+  text-align: center;
+  grid-template-columns: 1fr;
+  max-width: 24rem;
+  padding: 1rem;
+  background: hsla(0, 0%, 100%, 0.25);
+  backdrop-filter: blur(12px);
+  border-radius: 0.5rem;
+  border: 1px solid hsla(0, 0%, 100%, 0.25);
+  opacity: 1;
+}
+
+.lt-predictions-container {
+  font-family: var(--default-font);
+  background-color: var(--background-secondary, #3b444b);
+  transform-origin: top;
+  animation-duration: 0.3s;
+  animation-name: lineInserted;
+  transition: height 0.1s;
+  display: grid;
+  grid-gap: 0.2rem;
+  text-align: center;
+  grid-template-columns: 1fr;
+  max-width: 24rem;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.lt-predictions-container > button {
+  transition-delay: 0.5s;
+}
+
+.lt-buttoncontainer {
+  margin: 5px 5px 5px;
+}
+
+.lt-buttoncontainer > button {
+  margin-bottom: 4px;
+}
+
+.lt-title {
+  display: block;
+  text-decoration: underline;
+}
+
+.lt-message {
+  display: block;
+}
+
+@keyframes lineInserted {
+  from {
+    transform: scaleY(0);
+  }
+
+  to {
+    transform: scaleY(1);
+  }
+}

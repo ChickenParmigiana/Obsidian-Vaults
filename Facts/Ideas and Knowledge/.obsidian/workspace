@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "83a28e102f863a18",
+    "type": "split",
+    "children": [
+      {
+        "id": "52069bb8a60bcd3a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dc1c92ff4a7c92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c26f71343b71d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33ef812f9188f674",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "430f945362cd9a99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "520e51dbd990b980",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84e6f184f5a2718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b4d989232a0b321",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79699712848a4392",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "52069bb8a60bcd3a",
+  "lastOpenFiles": []
+}

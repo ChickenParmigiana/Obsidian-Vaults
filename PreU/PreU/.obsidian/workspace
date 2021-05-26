@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "be3a21418f74b79f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8694e17e2a9095a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Calculus and Vectors/1.1 Reviewing Prerequisite Skills Questions.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "98e44382485b565d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Calculus and Vectors/1.1 Reviewing Prerequisite Skills Questions.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2068ecdd4188b84",
+    "type": "split",
+    "children": [
+      {
+        "id": "028e21236c60a73f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "210342caa9796fc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9f817a7237e74de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e58b8c83b84217db",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 192.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "282c4e5df42c79fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "be7ed6f717d04e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9a35dfb2592cf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculus and Vectors/1.1 Reviewing Prerequisite Skills Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fa80bdac764da837",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "11a845820561a92f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "baa50d89bfab7ef5",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fe5499b1efd9e37",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "345f0929e34fdb1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfab5ec3d4e56389",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8694e17e2a9095a9",
+  "lastOpenFiles": [
+    "Calculus and Vectors/1.1 Reviewing Prerequisite Skills Questions.md",
+    "Calculus and Vectors/Calculus and Vectors.md",
+    "Calculus and Vectors/1.1 Reviewing Prerequisite Skills.md",
+    "Calculus and Vectors/mcv4u_01.01.08.svg",
+    "Day Planners/Ledger.md",
+    "AdvancedFunctions.md",
+    "mcv4u_01.01.08.svg",
+    "Calculus and Vectors.md",
+    "1.1 Reviewing Prerequisite Skills.md",
+    "Untitled.md"
+  ]
+}
