@@ -75,7 +75,7 @@ $$x^2+5x+6$$
 $$=(x+2)(x+3)$$
 
 #### Factor by Decomposition
-In the example $2x^2+7x-15$, just like through inspection, we will find two numbers that multiply to $-30, (2$ x $15)$ and that add to 7.
+In the example $2x^2+7x-15$, just like through inspection, we will find two numbers that multiply to $-30, (2$ x $(-15))$ and that add to 7.
 
 Again, in this case it is easy, the numbers are $-3$ and $+10$.
 
@@ -131,10 +131,8 @@ The quadratic formula can be used to determine the roots of a quadratic equation
 The quadratic formula is 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
-Example: Find roots of 
-
-
 Roots are when where the parabola intercepts the x axis, when y=0
+Find the Roots
 
 $$y=4x^2-4x-8$$
 $$a=4$$
@@ -156,7 +154,7 @@ $\frac{-8}{8} = -1$
 So, the roots of $y=4x^2-4x-8$ are $2$ and $-1$.
 
 ## The Factor Theorem
-The Factor Theorem is used to find the roots of polynomial functions with a degree of three or higher, such as cubic and quartic functions -Starting with $(x^3)$ or $(x^4)$.
+The Factor Theorem is used to find the roots of polynomial functions with a degree of three or higher, such as cubic and quartic functions - Starting with $(x^3)$ or $(x^4)$.
 
 Example: Find the roots of the function
 $$y=x^3-7x-6$$
